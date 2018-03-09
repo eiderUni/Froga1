@@ -8,4 +8,5 @@ if __name__ == '__main__':
     pass
 
 print('Kaixo mundua')
+print('Hau lehen bertsioa da')
 

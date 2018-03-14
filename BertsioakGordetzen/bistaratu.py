@@ -9,4 +9,4 @@ if __name__ == '__main__':
 
 print('Kaixo mundua')
 print('Hau lehen bertsioa da')
-
+print('Hau bigarren bertsioa da')

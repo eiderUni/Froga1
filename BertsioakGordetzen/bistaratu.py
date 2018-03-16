@@ -15,4 +15,4 @@ pass
 print('3.na')
 # beste aldaketa bat
 print('kaixo mundua4')
-
+print('berriz masterrean')

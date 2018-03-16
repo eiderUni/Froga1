@@ -20,3 +20,6 @@ print('kaixo mundua4')
 =======
 print('kaixo mundua brach testing')
 >>>>>>> refs/heads/testing
+#ona
+
+print('bertsio egokia')

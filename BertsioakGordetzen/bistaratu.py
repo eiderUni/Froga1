@@ -15,4 +15,8 @@ pass
 print('3.na')
 # beste aldaketa bat
 print('kaixo mundua4')
+<<<<<<< HEAD
 print('berriz masterrean')
+=======
+print('kaixo mundua brach testing')
+>>>>>>> refs/heads/testing
